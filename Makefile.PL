@@ -8,7 +8,7 @@ WriteMakefile(
     AUTHOR             => q{C.J. Collier <cjac@google.com>},
     VERSION_FROM       => 'lib/PDL/ML/RAG.pm',
     ABSTRACT_FROM      => 'lib/PDL/ML/RAG.pm',
-    LICENSE            => 'apache_2_0',
+    LICENSE            => 'perl_5',
     MIN_PERL_VERSION   => '5.010',
     CONFIGURE_REQUIRES => {
         'ExtUtils::MakeMaker' => '0',
